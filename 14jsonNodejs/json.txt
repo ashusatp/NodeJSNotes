@@ -1,0 +1,12 @@
+JSON stands for javaScript Object Notation.
+json is a lightWeight formate for storing and transporting data.
+JSON is often used when data is sent from a server to a web page 
+
+// convert object into JSON
+const jsonData = JSON.stringify(bigData);
+console.log(jsonData);
+//{"name":"Ashutosh","age":19,"channel":"No"}
+
+// convert JSON into object
+const objData = JSON.parse(jsonData);
+console.log(objData);

@@ -1,0 +1,36 @@
+//  comand line should be in 10NPM_module
+
+// ************* initialize Npm ***********
+// PS C:\Users\ASHUTOSH\OneDrive\Desktop\node\10NPM_module> npm init
+
+// ========= Result ========================
+        // package name: (10npm_module)
+        // version: (1.0.0)
+        // description: Ashutosh world king
+        // entry point: (index.js)
+        // test command:
+        // git repository:
+        // keywords:
+        // author: "Ashutosh Satapathy"
+        // license: (ISC)
+        // About to write to C:\Users\ASHUTOSH\OneDrive\Desktop\node\10NPM_module\package.json:
+
+        // {
+        //   "name": "10npm_module",
+        //   "version": "1.0.0",
+        //   "description": "Ashutosh world king",
+        //   "main": "index.js",
+        //   "scripts": {
+        //     "test": "echo \"Error: no test specified\" && exit 1"
+        //   },
+        //   "author": "\"Ashutosh Satapathy\"",
+        //   "license": "ISC"
+        // }
+
+
+        // Is this OK? (yes)
+
+
+// ************ Chalk module **************
+    // PS C:\Users\ASHUTOSH\OneDrive\Desktop\node\10NPM_module> npm i chalk@2.4.1
+
